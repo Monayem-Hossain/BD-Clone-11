@@ -74,7 +74,7 @@ def menu():
     print( '')
     print( 'AUTHOR   : MONAYEM HOSSAIN')
     print ('FACEBOOK : Monayem Hossain')
-    print( 'GITHUB     : github.com/Devil-King-Monayem')
+    print( 'GITHUB   : github.com/Devil-King-Monayem')
     print( '')
     print (50* '-')
     print ('[1]  \x1b[1;96mGP')
