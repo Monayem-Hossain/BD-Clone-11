@@ -91,7 +91,7 @@ def menu():
 def action():
     global cpb
     global oks
-    bch = raw_input('\n  ===>   ')
+    bch = raw_input('\n  \x1b[1;96m===>   ')
     if bch == '':
         print
         action()
