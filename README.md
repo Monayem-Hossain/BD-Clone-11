@@ -15,3 +15,4 @@ git clone https://github.com/Devil-King-Monayem/BD-Clone-11
 
 cd BD-Clone-11
 
+python2 MONAYEM_BD_11.py
