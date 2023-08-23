@@ -16,7 +16,7 @@ pkg install pip
 
 /data/data/com.termux/files/usr/bin/python3 -m pip install --upgrade pip
 
-git clone https://github.com/Devil-King-Monayem/BD-Clone-11
+git clone https://github.com/Monayem-Hossain/BD-Clone-11
 
 cd BD-Clone-11
 
